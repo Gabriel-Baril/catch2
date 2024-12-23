@@ -38,3 +38,8 @@ docs/doxygen
 *.cache
 compile_commands.json
 **/*.unapproved.txt
+
+
+*.vcxproj
+*.vcxproj.filters
+out/
