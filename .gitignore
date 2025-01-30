@@ -41,5 +41,7 @@ compile_commands.json
 
 
 *.vcxproj
+*.vcxproj.user
 *.vcxproj.filters
 out/
+x64/
