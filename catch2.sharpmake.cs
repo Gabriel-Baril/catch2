@@ -6,7 +6,7 @@ public class HdnCodeExternalCatch2Project : BaseCppProject
 {
     public HdnCodeExternalCatch2Project()
     {
-        Name = "hdn.code.external.catch2";
+        Name = "dm.code.external.catch2";
         SourceRootPath = @"[project.SharpmakeCsPath]\src";
         AddTargets(TargetUtil.DefaultTarget);
     }
